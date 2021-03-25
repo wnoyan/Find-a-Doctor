@@ -1,0 +1,115 @@
+body{
+    background-color: #F1F1F1;
+}
+
+.header{
+    background-color: #FE0000;
+    /*padding: 2% 2%;*/
+    /*margin-bottom: 1%;*/
+}
+
+.header-title{
+    text-align: center;
+}
+
+.header-title p{
+    color: white;
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+.header-navbar ul li a{
+    color: white;
+}
+
+.header-navbar ul li a:hover{
+    /*color: #FE0000;
+    background-color: white;*/
+    color: blue;
+}
+
+.specialist-search{
+    padding: 2% 2%;
+}
+
+.body-search{
+    padding: 2% 2%;
+}
+
+.body-search span{
+    border: solid 1px #CED4DA;
+    border-radius: 7px;
+}
+
+.body-search p, .specialist-search p{
+    /*text-align: center;*/
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+.body-search button, .specialist-search button{
+    background-color: #FE0000; 
+}
+
+.body-speciality, .body-area{
+    /*padding: 2% 2%;*/
+}
+
+.body-speciality a, .body-area a{
+    color: black;
+    text-decoration: none;
+    background-color: #F1F1F1;
+    padding: 2%;
+    border-radius: 7px;
+}
+
+.body-speciality a:hover, .body-area a:hover{
+    color: blue;
+}
+
+.body-video{
+    /*padding: 2% 2%;*/
+}
+
+.footer{
+    /*padding: 2% 2%;*/
+    background-color: #FE0000;
+}
+
+.footer ul li a{
+    color: white;
+}
+
+.footer ul li a:hover{
+    color: blue;
+}
+
+/*New Header Starting*/
+
+.new-header-title p{
+    color: white;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.search-bar span{
+    background-color: white;
+    border-radius: 7px;
+}
+
+.search-bar button{
+    background-color: #30C6D7;
+}
+
+.browse{
+    background-color: #30C6D7;
+    border: 1px solid white;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: blue;
+}
